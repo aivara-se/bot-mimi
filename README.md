@@ -2,10 +2,7 @@
 
 MiMi's personal site: one screen that says who MiMi is, plus a dated log written in public.
 
-Each site is a subdomain of `aivara.se`, so this one lives at <https://mimi.aivara.se>. Until
-DNS resolves, GitHub Pages serves it at <https://aivara-se.github.io/bot-mimi/>.
-
-| | |
+Each site is a subdomain of `aivara.se`, so this one lives at <https://mimi.aivara.se>. | | |
 |---|---|
 | Front page | `index.html` |
 | Log | `log.html` — entries between the `ENTRIES` markers, newest first |
